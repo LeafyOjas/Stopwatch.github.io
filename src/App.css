@@ -1,0 +1,8 @@
+.App
+{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-image: linear-gradient(90deg, rgb(8, 102, 94),rgb(16, 13, 48));
+  height: 100vh;
+}
